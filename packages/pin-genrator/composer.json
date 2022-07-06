@@ -1,0 +1,11 @@
+{
+    "name": "yinka/pin-genrator",
+    "description": "This is a random pin generator package",
+    "authors": [
+        {
+            "name": "Yinka Giwa",
+            "email": "adeyinka.giwa36@gmail.com"
+        }
+    ],
+    "require": {}
+}
