@@ -14,5 +14,5 @@ This an simple app for generating random 4 digit pins.
 
 
 ##Usage
-- To see a generate pin in the browser, go to the route "/generate"
+- To see a generated pin in the browser, go to the route "/generate"
 - refresh the browser to generate another pin
