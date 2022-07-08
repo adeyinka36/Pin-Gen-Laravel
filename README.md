@@ -10,7 +10,7 @@ This an simple app for generating random 4 digit pins.
 ## Installation
 
 -  install this package in  by running "composer require yinka/pingenerator"
-- Run " composer dump-autoload -o " to autoload classes.
+- Run " composer dump-autoload -o " to autoload all classes.
 
 
 ##Usage
